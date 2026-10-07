@@ -1,3 +1,4 @@
 Este archivo pertenece a mi práctica de comandos Git.
 Ahora estoy realizando una segunda modificación para practicar Git.
 Este cambio fue realizado desde la rama desarrollo.
+Cambio exclusivo realizado desde la rama desarrollo.
