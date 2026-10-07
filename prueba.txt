@@ -1,1 +1,2 @@
 Este archivo pertenece a mi práctica de comandos Git.
+Ahora estoy realizando una segunda modificación para practicar Git.
